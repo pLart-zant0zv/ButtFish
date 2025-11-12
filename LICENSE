@@ -1,110 +1,21 @@
-/* ButtFish styles */
+MIT License
 
-body {
-    font-family: "Helvetica Neue", Arial, sans-serif;
-    background-color: #f8f8f8;
-    color: #333;
-}
+Copyright (c) 2025 pLart-zant0zv
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-button.primary {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 10px 16px;
-    border-radius: 4px;
-    cursor: pointer;
-}
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-button.primary:hover {
-    background-color: #0056b3;
-}
-
----
-
-## 13️⃣ CSharp (realistic)
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688402
-
-# Setup Update 1760688403
-
-# Setup Update 1760688403
-
-# Setup Update 1760688403
-
-# Setup Update 1760688403
-
-# Setup Update 1760688403
-
-# Setup Update 1760688403
-
-# Setup Update 1760688403
-
-# Setup Update 1760688403
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688404
-
-# Setup Update 1760688405
-
-# Setup Update 1760688405
-
-# Setup Update 1760688405
-
-# Setup Update 1760688405
-
-# Setup Update 1760688405
-
-# Setup Update 1760688406
-
-# Setup Update 1760688406
-
-# Setup Update 1760688406
-
-# Setup Update 1760688406
-
-# Setup Update 1760688406
-
-# Setup Update 1760688406
-
-# Touch update: 1760688425
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
